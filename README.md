@@ -5,6 +5,12 @@
 # yamldiff
 `yamldiff` diffs between 2 yaml files
 
+### Installation
+
+```bash
+go install kmodules.xyz/yamldiff@latest
+```
+
 ### Usage
 
 ```bash
